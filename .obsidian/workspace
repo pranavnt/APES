@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 2/2.7 Ecological Succession.md",
+            "file": "Chapter 1/1.1 Introduction to Ecosystems.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/2.7 Ecological Succession.md",
+                "file": "Chapter 1/1.1 Introduction to Ecosystems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "1883d0f5c8747446",
   "lastOpenFiles": [
+    "Chapter 1/1.1 Introduction to Ecosystems.md",
     "Chapter 2/2.7 Ecological Succession.md",
     "Chapter 2/2.6 Adaptations.md",
     "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
@@ -96,7 +97,6 @@
     "Chapter 2/2.2 Ecosystem Services.md",
     "Chapter 2/2.1 Introduction to Biodiversity.md",
     "Chapter 1/1.2 Terrestrial Biomes.md",
-    "Chapter 1/1.1 Introduction to Ecosystems.md",
     "biogeochemical cycle.md"
   ]
 }
