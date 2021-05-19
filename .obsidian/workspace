@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "12b32abb1ed6ffdd",
+        "id": "0042363a25e1bbb2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3.7 Total Fertility Rate.md",
+            "file": "Chapter 3/3.8 Human Population Dynamics.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.7 Total Fertility Rate.md",
+                "file": "Chapter 3/3.8 Human Population Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12b32abb1ed6ffdd",
+  "active": "0042363a25e1bbb2",
   "lastOpenFiles": [
     "Untitled.md",
+    "Chapter 3/3.7 Total Fertility Rate.md",
     "Chapter 3/Untitled.md",
     "Chapter 3/3.2 K-Selected and r-selected Species.md",
     "Chapter 3/3.1 Generalist and Specialist Species.md",
@@ -96,7 +97,6 @@
     "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
     "Chapter 2/2.7 Ecological Succession.md",
     "Chapter 2/2.6 Adaptations.md",
-    "Chapter 2/2.4 Ecological Tolerance.md",
-    "Chapter 2/2.3 Island Biogeography.md"
+    "Chapter 2/2.4 Ecological Tolerance.md"
   ]
 }
