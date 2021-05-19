@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f903463b256148f4",
+        "id": "1883d0f5c8747446",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f903463b256148f4",
+  "active": "1883d0f5c8747446",
   "lastOpenFiles": [
-    "Chapter 2/2 7 Ecological Succession 43a2c22a7eea43c284916ffc86979137.md",
-    "Chapter 2/2 6 Adaptations 40d9094450cf4bafb85e7da8f7d9c1ae.md",
-    "Chapter 2/2 5 Natural Disruptions to Ecosystems dbcb7987cd3646b3af62be203ec46ee6.md",
-    "Chapter 2/2 4 Ecological Tolerance 5f91386a213e463796a8095d864e66b9.md",
-    "Chapter 2/2 3 Island Biogeography b04a4c813f784b4090f8effbe1587379.md",
-    "Chapter 2/2 2 Ecosystem Services 53441fbe9edc4a13a6dfe68b0dd15829.md",
-    "2 1 Introduction to Biodiversity 44b11d9785894e60bbf1b767632bf732.md",
-    "Untitled 586eccb051bd411bbc044cc5f10d6f99.md",
-    "2 7 Ecological Succession 43a2c22a7eea43c284916ffc86979137.md",
-    "Untitled b9cb75b2f7ec40d9b9f71704dc0de1a1.md"
+    "Chapter 2/2.7 Ecological Succession.md",
+    "Chapter 2/2.6 Adaptations.md",
+    "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
+    "Chapter 2/2.4 Ecological Tolerance.md",
+    "Chapter 2/2.3 Island Biogeography.md",
+    "Chapter 2/2.2 Ecosystem Services.md",
+    "Chapter 2/2.1 Introduction to Biodiversity.md",
+    "Chapter 1/1.2 Terrestrial Biomes.md",
+    "Chapter 1/1.1 Introduction to Ecosystems.md",
+    "biogeochemical cycle.md"
   ]
 }
