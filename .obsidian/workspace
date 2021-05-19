@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 1/1.3 Aquatic Biomes.md",
+            "file": "Chapter 2/2.7 Ecological Succession.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/1.3 Aquatic Biomes.md",
+                "file": "Chapter 2/2.7 Ecological Succession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3924bbe65097f175",
   "lastOpenFiles": [
-    "Chapter 1/1.3 Aquatic Biomes.md",
-    "Chapter 1/1.2 Terrestrial Biomes.md",
-    "Chapter 1/1.1 Introduction to Ecosystems.md",
-    "assets/Untitled.md",
     "Chapter 2/2.7 Ecological Succession.md",
     "Chapter 2/2.6 Adaptations.md",
     "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
     "Chapter 2/2.4 Ecological Tolerance.md",
     "Chapter 2/2.3 Island Biogeography.md",
-    "Chapter 2/2.2 Ecosystem Services.md"
+    "Chapter 2/2.2 Ecosystem Services.md",
+    "Chapter 2/2.1 Introduction to Biodiversity.md",
+    "Chapter 1/1.11 Food Chains and Food Webs.md",
+    "Chapter 1/1.10 Energy Flow and the 10% Rule.md",
+    "Chapter 1/1.9 Trophic Levels.md"
   ]
 }
