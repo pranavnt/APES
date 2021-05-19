@@ -1,0 +1,26 @@
+# 2.3 Island Biogeography
+
+Type: Biodiversity
+
+Theory of ocean island biogeography:
+
+- **highest** species richness found in **large** islands **near** the mainland
+- **lowest** species richness found in **small** islands **far** from mainland
+
+When islands are created, there is more edge habitat and less core habitat. 
+
+Species that can better adapt and live in edge habitat are selected when habitats are fragmented.
+
+Clear cutting is a common cause of habitat fragmentation.
+
+Apex predators prefer a connected habitat versus a fragmented habitat.
+
+A highway or a road is another cause of habitat fragmentation.
+
+Habitat corridors: They reduce the effects of habitat fragmentation through connecting the islands
+
+![2%203%20Island%20Biogeography%20b04a4c813f784b4090f8effbe1587379/Screen_Shot_2021-05-16_at_1.23.24_PM.png](2%203%20Island%20Biogeography%20b04a4c813f784b4090f8effbe1587379/Screen_Shot_2021-05-16_at_1.23.24_PM.png)
+
+Connecting two islands through this corridor over the highway
+
+**Species evenness** : Calculated by the Simpson and the Shannon index

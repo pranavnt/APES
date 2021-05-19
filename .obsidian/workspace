@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "43b029704afcc2e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0099df0ad612661f",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Chapter 1/assets/Screen_Shot_2021-05-15_at_3.35.11_PM.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e349cb582bc6a9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "351279192d22d0c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de4e2f4ac17b9341",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d10071cc7b7786b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 692
+  },
+  "right": {
+    "id": "4f848f56e7bbeafe",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb91b73ca5f3221e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846f67e84a435417",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Chapter 1/assets/Screen_Shot_2021-05-15_at_3.35.11_PM.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0099df0ad612661f",
+  "lastOpenFiles": [
+    "1 3 Aquatic Biomes 4f47e29713b343eda44850845523322d/Screen_Shot_2021-05-15_at_3.35.11_PM.png",
+    "1 6 The Phosphorus Cycle c6d81ab081704d8386c177b4430071e2.md",
+    "1 5 The Nitrogen Cycle 949bb9375f6844f8bf92700a9dae7e79.md",
+    "1 4 The Carbon Cycle 944f84ead045407a9c942de510675612.md",
+    "1 3 Aquatic Biomes 4f47e29713b343eda44850845523322d.md",
+    "Chapter 1/assets/Screen_Shot_2021-05-15_at_3.21.19_PM.png",
+    "Chapter 1/1.2 Terrestrial Biomes.md",
+    "1 2 Terrestrial Biomes c29da5cd53104468b7c0e1458718b314/Screen_Shot_2021-05-15_at_3.21.19_PM.png",
+    "1 2 Terrestrial Biomes c29da5cd53104468b7c0e1458718b314.md",
+    "Chapter 1/assets/Screen_Shot_2021-05-15_at_3.13.35_PM.png"
+  ]
+}
