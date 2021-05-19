@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 1/1.1 Introduction to Ecosystems.md",
+            "file": "Chapter 1/1.3 Aquatic Biomes.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1/1.1 Introduction to Ecosystems.md",
+                "file": "Chapter 1/1.3 Aquatic Biomes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,8 @@
   },
   "active": "2355366a96885e94",
   "lastOpenFiles": [
+    "Chapter 1/1.3 Aquatic Biomes.md",
+    "Chapter 1/1.2 Terrestrial Biomes.md",
     "Chapter 1/1.1 Introduction to Ecosystems.md",
     "assets/Screen_Shot_2021-05-15_at_3.13.35_PM.png",
     "Chapter 2/2.7 Ecological Succession.md",
@@ -95,8 +97,6 @@
     "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
     "Chapter 2/2.4 Ecological Tolerance.md",
     "Chapter 2/2.3 Island Biogeography.md",
-    "Chapter 2/2.2 Ecosystem Services.md",
-    "Chapter 2/2.1 Introduction to Biodiversity.md",
-    "Chapter 1/1.2 Terrestrial Biomes.md"
+    "Chapter 2/2.2 Ecosystem Services.md"
   ]
 }
