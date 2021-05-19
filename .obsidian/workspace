@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3924bbe65097f175",
+        "id": "0a6a89eb71a99d4b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 2/2.7 Ecological Succession.md",
+            "file": "Chapter 3/3.1 Generalist and Specialist Species.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2/2.7 Ecological Succession.md",
+                "file": "Chapter 3/3.1 Generalist and Specialist Species.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3924bbe65097f175",
+  "active": "0a6a89eb71a99d4b",
   "lastOpenFiles": [
+    "Chapter 3/3.1 Generalist and Specialist Species.md",
+    "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
+    "Untitled.md",
+    "Chapter 3/Untitled.md",
     "Chapter 2/2.7 Ecological Succession.md",
     "Chapter 2/2.6 Adaptations.md",
-    "Chapter 2/2.5 Natural Disruptions to Ecosystems.md",
     "Chapter 2/2.4 Ecological Tolerance.md",
     "Chapter 2/2.3 Island Biogeography.md",
     "Chapter 2/2.2 Ecosystem Services.md",
-    "Chapter 2/2.1 Introduction to Biodiversity.md",
-    "Chapter 1/1.11 Food Chains and Food Webs.md",
-    "Chapter 1/1.10 Energy Flow and the 10% Rule.md",
-    "Chapter 1/1.9 Trophic Levels.md"
+    "Chapter 2/2.1 Introduction to Biodiversity.md"
   ]
 }
