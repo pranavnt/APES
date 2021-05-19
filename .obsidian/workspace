@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 3/3.4 Carrying Capacity.md",
+            "file": "Chapter 3/3.5 Population Growth and Resource Availability.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 3/3.4 Carrying Capacity.md",
+                "file": "Chapter 3/3.5 Population Growth and Resource Availability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "12b32abb1ed6ffdd",
   "lastOpenFiles": [
-    "Chapter 3/Untitled.md",
     "Untitled.md",
+    "Chapter 3/Untitled.md",
     "Chapter 3/3.2 K-Selected and r-selected Species.md",
     "Chapter 3/3.1 Generalist and Specialist Species.md",
     "_assets/Screen Shot 2021-05-19 at 12.29.05 AM.png",
