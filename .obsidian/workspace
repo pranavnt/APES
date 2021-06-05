@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ab260d8d55a5f43",
+        "id": "aba95d5c10e66c60",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 4/4.9 El Niño and La Niña.md",
+            "file": "Chapter 5/5.2 Clearcutting.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 4/4.9 El Niño and La Niña.md",
+                "file": "Chapter 5/5.2 Clearcutting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5ab260d8d55a5f43",
+  "active": "aba95d5c10e66c60",
   "lastOpenFiles": [
+    "Chapter 5/5.2 Clearcutting.md",
+    "Chapter 5/Untitled.md",
+    "Chapter 5/5.1 Tragedy of the Commons.md",
     "Chapter 4/Untitled.md",
     "Chapter 4/4.2 Soil Formation and Erosion.md",
     "Chapter 3/3.4 Carrying Capacity.md",
     "Chapter 4/4.1 Plate Tectonics.md",
     "Chapter 1/1.7 The Hydrological (Water) Cycle.md",
     "Chapter 2/2.1 Introduction to Biodiversity.md",
-    "Chapter 2/2.2 Ecosystem Services.md",
-    "Chapter 2/2.4 Ecological Tolerance.md",
-    "Chapter 2/2.3 Island Biogeography.md",
-    "Chapter 2/2.5 Natural Disruptions to Ecosystems.md"
+    "Chapter 2/2.2 Ecosystem Services.md"
   ]
 }
