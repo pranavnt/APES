@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "aba95d5c10e66c60",
+        "id": "02df852e4224ef9e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 5/5.17 Sustainable Forestry.md",
+            "file": "Chapter 6/6.1 Renewable and Nonrenewable Resources.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302
+    "width": 202
   },
   "right": {
     "id": "4f848f56e7bbeafe",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5/5.17 Sustainable Forestry.md",
+                "file": "Chapter 6/6.1 Renewable and Nonrenewable Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aba95d5c10e66c60",
+  "active": "02df852e4224ef9e",
   "lastOpenFiles": [
+    "Chapter 6/Untitled.md",
+    "Untitled.md",
+    "Chapter 5/5.17 Sustainable Forestry.md",
+    "Chapter 5/5.3 The Green Revolution.md",
     "Chapter 5/Untitled.md",
     "Chapter 5/5.16 Aquaculture.md",
     "Chapter 1/1.1 Introduction to Ecosystems.md",
     "Chapter 5/5.2 Clearcutting.md",
     "Chapter 5/5.10 Impacts of Urbanization.md",
-    "Chapter 5/5.5 Irrigation Methods.md",
-    "Chapter 5/5.9 Impacts of Mining.md",
-    "Untitled.md",
-    "Chapter 5/5.7 Meat Production Methods.md",
-    "Chapter 5/5.4 Impacts of Agricultural Practices.md"
+    "Chapter 5/5.5 Irrigation Methods.md"
   ]
 }
