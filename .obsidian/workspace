@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "02df852e4224ef9e",
+        "id": "3ac73516e609ced1",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,8 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02df852e4224ef9e",
+  "active": "3ac73516e609ced1",
   "lastOpenFiles": [
+    "Chapter 6/6.6 Nuclear Power.md",
     "Chapter 6/Untitled.md",
     "Untitled.md",
     "Chapter 5/5.17 Sustainable Forestry.md",
@@ -96,7 +97,6 @@
     "Chapter 5/5.16 Aquaculture.md",
     "Chapter 1/1.1 Introduction to Ecosystems.md",
     "Chapter 5/5.2 Clearcutting.md",
-    "Chapter 5/5.10 Impacts of Urbanization.md",
-    "Chapter 5/5.5 Irrigation Methods.md"
+    "Chapter 5/5.10 Impacts of Urbanization.md"
   ]
 }
