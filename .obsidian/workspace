@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 6/6.6 Nuclear Power.md",
+            "file": "Chapter 6/6.7 Energy from Biomass.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 6/6.6 Nuclear Power.md",
+                "file": "Chapter 6/6.7 Energy from Biomass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "3ac73516e609ced1",
   "lastOpenFiles": [
-    "Chapter 6/6.6 Nuclear Power.md",
     "Chapter 6/Untitled.md",
+    "Chapter 6/6.6 Nuclear Power.md",
     "Untitled.md",
     "Chapter 5/5.17 Sustainable Forestry.md",
     "Chapter 5/5.3 The Green Revolution.md",
