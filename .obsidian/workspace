@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 8/8.15 Pathogens and Infectious Diseases.md",
+            "file": "Chapter 9/9.2 Reducing Ozone Depletion.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 8/8.15 Pathogens and Infectious Diseases.md",
+                "file": "Chapter 9/9.2 Reducing Ozone Depletion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "69dd48e9bd64321a",
   "lastOpenFiles": [
+    "Chapter 9/Untitled.md",
     "Chapter 8/Untitled.md",
     "Chapter 8/8.14 Pollution and Human Health.md",
     "Chapter 8/8.8 Bioaccumulation and Biomagnification.md",
@@ -96,7 +97,6 @@
     "Chapter 8/8.4 Human Impact on Wetlands and Mangroves.md",
     "Chapter 7/7.1 Introduction to Air Pollution.md",
     "Chapter 7/7.2 Photochemical Smog.md",
-    "Chapter 7/7.4 Atmospheric CO2 and Particulates.md",
-    "Chapter 7/7.5 Indoor Air Pollutants.md"
+    "Chapter 7/7.4 Atmospheric CO2 and Particulates.md"
   ]
 }
