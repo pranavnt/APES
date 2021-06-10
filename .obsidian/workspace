@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5db83ff1d90f86a6",
+        "id": "69dd48e9bd64321a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 8/8.13 Dose Response Curve.md",
+            "file": "Chapter 8/8.14 Pollution and Human Health.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 8/8.13 Dose Response Curve.md",
+                "file": "Chapter 8/8.14 Pollution and Human Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5db83ff1d90f86a6",
+  "active": "69dd48e9bd64321a",
   "lastOpenFiles": [
+    "Chapter 8/8.14 Pollution and Human Health.md",
     "Chapter 8/Untitled.md",
     "Chapter 8/8.8 Bioaccumulation and Biomagnification.md",
     "Chapter 8/8.7 Persistent Organic Pollutants (POPs).md",
@@ -96,7 +97,6 @@
     "Chapter 7/7.1 Introduction to Air Pollution.md",
     "Chapter 7/7.2 Photochemical Smog.md",
     "Chapter 7/7.4 Atmospheric CO2 and Particulates.md",
-    "Chapter 7/7.5 Indoor Air Pollutants.md",
-    "Chapter 7/7.6 Reduction of Air Pollutants.md"
+    "Chapter 7/7.5 Indoor Air Pollutants.md"
   ]
 }
