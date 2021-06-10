@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 7/7.7 Acid Rain.md",
+            "file": "Chapter 8/8.1 Sources of Pollution.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 7/7.7 Acid Rain.md",
+                "file": "Chapter 8/8.1 Sources of Pollution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "5db83ff1d90f86a6",
   "lastOpenFiles": [
+    "Chapter 8/Untitled.md",
     "Chapter 7/Untitled.md",
     "Chapter 7/7.6 Reduction of Air Pollutants.md",
     "_assets/Screen Shot 2021-05-29 at 9.39.57 PM.png",
@@ -96,7 +97,6 @@
     "Chapter 6/6.6 Nuclear Power.md",
     "Untitled.md",
     "Chapter 5/5.17 Sustainable Forestry.md",
-    "Chapter 5/5.3 The Green Revolution.md",
-    "Chapter 5/Untitled.md"
+    "Chapter 5/5.3 The Green Revolution.md"
   ]
 }
