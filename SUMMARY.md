@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [APES Notes!](README.md)
 * [Chapter 1](chapter-1/README.md)
   * [1.1 Introduction to Ecosystems](chapter-1/1.1-introduction-to-ecosystems.md)
   * [1.2 Terrestrial Biomes](chapter-1/1.2-terrestrial-biomes.md)
